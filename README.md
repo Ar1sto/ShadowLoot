@@ -1,7 +1,7 @@
 # ShadowLoot
 ShadowLoot is a commandline tool written in Python3.10 that can be used to obtain promo codes for the game "Shadow Fight 3". This gives the player an advantage over other players.
 
-![ShadowLoot Banner](https://github.com/Ar1sto/ShadowLoot/blob/main/art/Banner.PNG)
+![ShadowLoot Banner](https://github.com/Ar1sto/ShadowLoot/blob/main/art/80p.png)
 
 ### Installation
 ```bash
@@ -15,6 +15,7 @@ pip install -r requirements.txt
    ```
 2. **Follow On-Screen Instructions:**
    Enter the player ID, choose a region (EU, AS2, IN, or US), and unlock secrets with promo codes.
+   ![ShadowLoot in action](https://github.com/Ar1sto/ShadowLoot/blob/main/art/whileworking.PNG)
 
 ### Technical Background
 ShadowLoot is powered by Python and leverages cutting-edge libraries:
